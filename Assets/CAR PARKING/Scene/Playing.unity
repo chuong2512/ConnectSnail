@@ -306,7 +306,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   musicsMenu: {fileID: 8300000, guid: 73a7d7cf8c9bd48e5b8032028b3a6640, type: 3}
-  musicMenuVolume: 0.5
+  musicMenuVolume: 0.154
   soundSuccess: {fileID: 8300000, guid: 58084395153804583933e35365368d05, type: 3}
   soundGameover: {fileID: 0}
   soundClick: {fileID: 8300000, guid: 19002cb2839204243810e3cabfc10136, type: 3}

@@ -165,7 +165,7 @@ SpriteRenderer:
   m_Size: {x: 1.12, y: 1.93}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &4003718590330227832
@@ -256,7 +256,7 @@ SpriteRenderer:
   m_Size: {x: 1.12, y: 1.93}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!50 &4003718590330227778
@@ -298,7 +298,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5c812c240e6a74ccdbd44587c63cb779, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  parkingColor: 0
+  parkingColor: 2
   lineRenderer: {fileID: 4003718590330227780}
   listOfPoints: []
   distance2points: 0.15
@@ -491,7 +491,7 @@ MonoBehaviour:
   - {x: -0.28163016, y: -0.41115618, z: 0}
   m_ShapePathHash: -280987519
   m_Mesh: {fileID: 0}
-  m_InstanceId: 247934
+  m_InstanceId: 298354
   m_LocalBounds:
     m_Center: {x: -0.00865227, y: 0.44562197, z: 0}
     m_Extent: {x: 0.41482586, y: 0.861104, z: 0}

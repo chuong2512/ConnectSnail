@@ -172,7 +172,7 @@ SpriteRenderer:
   m_Size: {x: 1.12, y: 1.93}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!50 &4003718590330227778
@@ -407,7 +407,7 @@ MonoBehaviour:
   - {x: -0.28163016, y: -0.41115618, z: 0}
   m_ShapePathHash: -280987519
   m_Mesh: {fileID: 0}
-  m_InstanceId: 246758
+  m_InstanceId: 297178
   m_LocalBounds:
     m_Center: {x: -0.00865227, y: 0.44562197, z: 0}
     m_Extent: {x: 0.41482586, y: 0.861104, z: 0}
@@ -492,6 +492,6 @@ SpriteRenderer:
   m_Size: {x: 1.12, y: 1.93}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
