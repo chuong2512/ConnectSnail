@@ -214,7 +214,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5c812c240e6a74ccdbd44587c63cb779, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  parkingColor: 0
+  parkingColor: 1
   lineRenderer: {fileID: 4003718590330227780}
   listOfPoints: []
   distance2points: 0.15
